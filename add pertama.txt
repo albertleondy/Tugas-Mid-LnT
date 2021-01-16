@@ -1,0 +1,2 @@
+pake git add .
+terus commit -m "editan pertama"
